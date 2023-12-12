@@ -1,0 +1,102 @@
+#i{
+width: 100%;
+height: 700px;
+background-color: black;
+background: transparent;
+}
+h1{
+    text-align: center;
+}
+.row{
+    display: flex;
+    justify-content: space-between;
+
+    padding-right: 200px;
+   
+}
+#q{
+ margin-left: 600px;
+}
+/* .mon{
+    margin-left: 500px;
+    padding-top: 250px;
+    color: rgb(250, 135, 135); */
+  
+
+ .con{
+
+
+    height: 400px; 
+
+ 
+ background-image:url('https://upload.wikimedia.org/wikipedia/commons/4/4f/Kerala_boatrace.jpg')
+ } 
+#t{
+    background-color:blanchedalmond;
+}
+
+#colu{
+    margin-left: 800px;
+
+}
+#moh{
+    margin-left: 600px;
+    margin-bottom: 119px;
+    padding-top: 100px;
+    color: blueviolet;
+
+}
+#vk{
+    margin-left: 600px;
+    font-weight: 100px;
+   
+
+}
+#oh{
+    margin-left: 600px;
+  
+    margin-bottom: 90px;
+    color: rgb(0, 191, 255);
+
+}
+#mn{
+    margin-left: 600px;
+  
+    
+}
+.img{
+    border: 5px solid black;
+    height: 300px;
+    border-style: ridge;
+    border-image-slice: fill;
+}
+.dream{
+    margin-left: 600px;
+    color: orange;
+
+
+}
+#d{
+    margin-left: 600px;
+
+
+}
+#bav{
+    background-color: rgb(30, 255, 229);
+}
+#ol{
+    border-radius: 100px;
+    width: 200px;
+    border: 10px solid black;
+  
+}
+.col-sm-3{
+    width: 100px;
+}
+nav{
+   
+    background-image: url(https://media.istockphoto.com/id/1285301614/photo/young-man-arms-outstretched-by-the-sea-at-sunrise-enjoying-freedom-and-life-people-travel.jpg?s=612x612&w=0&k=20&c=0QW6GnkuFNYcPZhy26XVHuTc2avJTK8u6l_1iT0SlZk=);
+}
+.abc{
+    margin-left: 650px;
+}
